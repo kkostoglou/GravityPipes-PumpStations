@@ -1,3 +1,3 @@
 # GravityPipes-PumpStations
-Simple Calculations with Excel Sheets of Gravity pipes (partial and full) and Pump Stations
-The provided Excel sheets calculations are simple but very helpful for storm and sewage pipelines and pump stations
+Basic Excel-based calculations for gravity pipes (both partial and full flow) and pump stations.
+The provided Excel sheets offer straightforward yet highly useful calculations for stormwater and sewage pipeline design, including pump stations and force mains.
